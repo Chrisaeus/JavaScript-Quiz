@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(158, 204, 241, 0.568);
+    list-style: none;
+}
+
+#timer {
+    position: absolute;
+    right: 20px;
+    font-size: 2em;
+}
+
+#startBtnBox {
+    text-align: center;
+}
+
+main {
+    margin: 150px 200px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+    font-family: monospace;
+    margin-right: 10px;
+}
+
+#startBtn {
+    
+    position: relative;
+    top: 100px;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+table {
+    font-size: 1.5em;
+}
+
+tr, th, td {
+    width: 100px;
+}
